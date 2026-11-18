@@ -1,0 +1,35 @@
+[13:54:47] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Booting up Velocity 4.3.1...
+[13:54:47] [main/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Connections will use NIO channels, Java compression, Java ciphers
+[13:54:47] [main/WARN] [com.velocitypowered.proxy.config.VelocityConfiguration]: Player info forwarding is disabled! All players will appear to be connecting from the proxy and will have offline-mode UUIDs.
+[13:54:47] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading localizations...
+[13:54:47] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loading plugins...
+[13:54:48] [main/INFO] [eaglerxserver]: Loading EaglercraftXServer 1.1.0...
+[13:54:48] [main/INFO] [eaglerxserver]: (Platform: Velocity)
+[13:54:48] [main/INFO] [eaglerxserver]: Server Name: "EaglercraftXServer"
+[13:54:48] [main/INFO] [com.velocitypowered.proxy.plugin.VelocityPluginManager]: Loaded plugin eaglerxserver 1.1.0 by lax1dude
+[13:54:48] [main/INFO] [com.velocitypowered.proxy.VelocityServer]: Loaded 2 plugins
+[13:54:48] [EaglercraftXServer - Task Executor #0/WARN] [com.velocitypowered.proxy.network.ConnectionManager]: The server channel initializer has been replaced by java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[13:54:48] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Enabling EaglercraftXServer 1.1.0...
+[13:54:48] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connecting to skin cache database "jdbc:sqlite:eagler_skins_cache.db"...
+[13:54:48] [EaglercraftXServer - Task Executor #0/INFO] [eaglerxserver]: Connected to skin cache database successfully!
+[13:54:48] [EaglercraftXServer - Task Executor #1/INFO] [eaglerxserver]: Reloaded certificate: C:\Users\nozke\Downloads\EaglerServer\Velocity\plugins\eaglerxserver\eagcert\$dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[13:54:48] [EaglercraftXServer - Task Executor #1/WARN] [eaglerxserver]: Update certificate was loaded: $dl.34268c6e7b2a2336a2821b0171d290d6dd455cba.cert
+[13:54:48] [Netty NIO Boss #0/INFO] [eaglerxserver]: Listener "listener0" injected into channel [id: 0x4d4091d5, L:/0.0.0.0:25565] successfully (Velocity method)
+[13:54:48] [Netty NIO Boss #0/INFO] [com.velocitypowered.proxy.network.ConnectionManager]: Listening on /0.0.0.0:25565
+[13:54:48] [main/INFO] [com.velocitypowered.proxy.Velocity]: Done (1.49s)!
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: =============================================
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: =============================================
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: 
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:  Updates are available for EaglerXServer
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:  ---------------------------------------
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: 
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:    :< Active: 1.1.0
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: 
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:    :> Latest: 1.1.1
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: 
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:  https://lax1dude.net/eaglerxserver/
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]:  -----------------------------------
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: 
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: =============================================
+[13:54:49] [Netty NIO Worker #0/WARN] [eaglerxserver]: =============================================
+[13:54:49] [Netty NIO Worker #1/INFO] [eaglerxserver]: Refreshed update certificate: https://deev.is/eagler/backup.cert
