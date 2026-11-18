@@ -1,2 +1,4 @@
-# Eagler-Server
-## a
+# Eagler Server
+## 日本語 / Japanese
+1. このレポジトリをフォークしてください
+2. その後コードスペースを作成してください
